@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Chenyu Jiang"
   pronouns         : # example: "she/her"  
-  bio              : "Final-year Ph.D. student at The University of Hong Kong."  # A short bio that appears in the author profile section
+  bio              : "Working at ByteDance Seed on video generation model infrastructure."  # A short bio that appears in the author profile section
   location         : "Hong Kong SAR, China"
   employer         : #
   uri              : # URL
