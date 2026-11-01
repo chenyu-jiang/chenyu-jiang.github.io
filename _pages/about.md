@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Chenyu Jiang (江宸宇). I am currently working at ByteDance Seed, focusing on the infrastructure of video generation models. I received my Ph.D. in Computer Science from The University of Hong Kong, advised by [Prof. Chuan Wu](https://i2.cs.hku.hk/~cwu/), and my B.Sc. in Computer Science from The Chinese University of Hong Kong in 2020. My Ph.D. research focused on optimizing distributed LLM training systems. 
+I am Chenyu Jiang (江宸宇). I am currently working at ByteDance Seed, building systems and infrastructure for video generation models. I received my Ph.D. in Computer Science from The University of Hong Kong, advised by [Prof. Chuan Wu](https://i2.cs.hku.hk/~cwu/), in 2025, and my B.Sc. in Computer Science from The Chinese University of Hong Kong in 2020. My Ph.D. research focused on optimizing distributed LLM training systems. 
 
 In my spare time, I like to take photos. You can find some of them [here](https://unsplash.com/@elistoo).
 
@@ -31,7 +31,7 @@ In my spare time, I like to take photos. You can find some of them [here](https:
 2016 - 2020
 
 ## 💼 Experience
-* Video Generation Model Infrastructure @ **ByteDance Seed**, 2025 - Present
+* Video Generation Model Infrastructure @ **ByteDance Seed**, 2026 - Present
   * Infrastructure for video generation models
 
 * LLM Pretraining Team (Internship) @ **Meituan**, May 2025 - Nov 2025
